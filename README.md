@@ -57,7 +57,7 @@ public String createChangeLog(UserInfo before, UserInfo after) {
 定义实体
 
 ```java
-import cn.oplog.annotation.OpLogField;
+import io.github.opcoral.oplog.annotation.OpLogField;
 import lombok.*;
 
 @Data
@@ -75,9 +75,9 @@ public class UserInfo {
 
 生成日志
 ```java
-import cn.oplog.entity.result.OpLogResult;
-import cn.oplog.impl.builder.OpLogBuilder;
-import cn.oplog.impl.builder.OpLogBuilderImpl;
+import io.github.opcoral.oplog.entity.result.OpLogResult;
+import io.github.opcoral.oplog.impl.builder.OpLogBuilder;
+import io.github.opcoral.oplog.impl.builder.OpLogBuilderImpl;
 
 // ...
 
@@ -99,8 +99,8 @@ System.out.println(logResult.getText());
 ### Spring Boot项目引入OpLogBuilder
 
 ```java
-import cn.oplog.core.OpLogBuilder;
-import cn.oplog.impl.builder.OpLogBuilderImpl;
+import io.github.opcoral.oplog.core.OpLogBuilder;
+import io.github.opcoral.oplog.impl.builder.OpLogBuilderImpl;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
