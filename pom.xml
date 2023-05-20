@@ -6,13 +6,13 @@
 
     <!-- gav信息 -->
     <groupId>io.github.opcoral</groupId>
-    <artifactId>oplog-core</artifactId>
+    <artifactId>beanlog-core</artifactId>
     <version>0.1.0-SNAPSHOT</version>
 
     <!-- 项目信息 -->
-    <name>oplog-core</name>
+    <name>beanlog-core</name>
     <description>A tool for generating operation records based on beans and their annotations</description>
-    <url>https://github.com/opcoral/oplog-core</url>
+    <url>https://github.com/opcoral/beanlog-core</url>
 
     <!-- 开源协议 -->
     <licenses>
@@ -38,9 +38,9 @@
 
     <!--项目在github或其它托管平台的地址-->
     <scm>
-        <connection>https://github.com/opcoral/oplog-core.git</connection>
-        <developerConnection>scm:git:ssh://git@github.com:opcoral/oplog-core.git</developerConnection>
-        <url>https://github.com/opcoral/oplog-core</url>
+        <connection>https://github.com/opcoral/beanlog-core.git</connection>
+        <developerConnection>scm:git:ssh://git@github.com:opcoral/beanlog-core.git</developerConnection>
+        <url>https://github.com/opcoral/beanlog-core</url>
     </scm>
 
     <properties>
