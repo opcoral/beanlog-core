@@ -7,7 +7,7 @@
     <!-- gav信息 -->
     <groupId>io.github.opcoral</groupId>
     <artifactId>beanlog-core</artifactId>
-    <version>0.1.0-SNAPSHOT</version>
+    <version>0.1.0</version>
 
     <!-- 项目信息 -->
     <name>beanlog-core</name>
