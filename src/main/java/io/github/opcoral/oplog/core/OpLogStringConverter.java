@@ -5,7 +5,7 @@ import io.github.opcoral.oplog.entity.parse.OpLogParseField;
 /**
  * OpLog自定义转换器<br>
  * 自定义根据类型转化成String的方法<br>
- * 解决的粒度：beforeObj -> before(无前后缀), afterObj -> after(无前后缀)<br>
+ * 解决的粒度：beforeObj - before(无前后缀), afterObj - after(无前后缀)<br>
  * 对于OpLog内部的调用，可以保证入参不为null
  *
  * @author GuanZH

@@ -10,23 +10,23 @@ package io.github.opcoral.oplog.enums;
 public enum OpLogChangeType {
 
     /**
-     * null -> null
+     * null to null
      */
     NULL(false),
     /**
-     * A -> A
+     * A to A
      */
     EQUAL(false),
     /**
-     * A -> B
+     * A to B
      */
     UPDATE(true),
     /**
-     * null -> A
+     * null to A
      */
     INSERT(true),
     /**
-     * A -> null
+     * A to null
      */
     DELETE(true),
     ;
