@@ -50,7 +50,7 @@ public String createChangeLog(UserInfo before, UserInfo after) {
 <dependency>
     <groupId>io.github.opcoral</groupId>
     <artifactId>beanlog-core</artifactId>
-    <version>0.1.0-SNAPSHOT</version>
+    <version>0.1.0</version>
 </dependency>
 ```
 
