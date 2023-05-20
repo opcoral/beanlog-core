@@ -7,7 +7,7 @@ import io.github.opcoral.oplog.util.OpLogConfigEditor;
 /**
  * config的空白比较器
  *
- * @author 关卓华 Guan Zhuohua
+ * @author GuanZH
  * @since 2023-5-16 18:29
  */
 public class NullComparableImpl implements OpLogComparable, OpLogConfigEditor.INullableClassInterface {

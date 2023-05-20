@@ -9,7 +9,7 @@ import java.util.Objects;
  * 默认的比较器<br>
  * <br>
  *
- * @author 关卓华 Guan Zhuohua
+ * @author GuanZH
  * @since 2023-5-16 18:33
  */
 public class DefaultComparableImpl implements OpLogComparable {

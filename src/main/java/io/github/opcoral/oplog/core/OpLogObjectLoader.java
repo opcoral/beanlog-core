@@ -4,7 +4,7 @@ package io.github.opcoral.oplog.core;
  * 根据类型获取对象的方法<br>
  * <br>
  *
- * @author 关卓华 Guan Zhuohua
+ * @author GuanZH
  * @since 2023-5-16 18:10
  */
 @FunctionalInterface

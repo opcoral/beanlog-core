@@ -16,7 +16,7 @@ import org.junit.jupiter.api.Test;
  * 一些杂项测试<br>
  * <br>
  *
- * @author 关卓华 Guan Zhuohua
+ * @author GuanZH
  * @since 2023-5-17 16:58
  */
 public class MiscellaneousTest {

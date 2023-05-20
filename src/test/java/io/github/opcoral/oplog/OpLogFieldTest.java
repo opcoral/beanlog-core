@@ -29,7 +29,7 @@ import java.util.*;
  * OpLogField注解的测试用例<br>
  * <br>
  * @since 2023-5-16 20:25
- * @author 关卓华 Guan Zhuohua
+ * @author GuanZH
  */
 public class OpLogFieldTest {
 

@@ -9,7 +9,7 @@ import org.junit.jupiter.api.Test;
  * 示例用法测试<br>
  * 如需使用打上Test注解即可<br>
  *
- * @author 关卓华 Guan Zhuohua
+ * @author GuanZH
  * @since 2023-5-18 14:37
  */
 public class DemoTest {

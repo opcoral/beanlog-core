@@ -26,7 +26,7 @@ import java.util.*;
  * OpLogBean的单元测试<br>
  * <br>
  *
- * @author 关卓华 Guan Zhuohua
+ * @author GuanZH
  * @since 2023-5-17 15:16
  */
 public class OpLogBeanTest {

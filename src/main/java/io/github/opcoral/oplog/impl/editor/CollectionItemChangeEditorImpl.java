@@ -21,7 +21,7 @@ import java.util.Set;
  *     <li>commonItem：commonItemSet根据config生成的字符串</li>
  * </ul>
  *
- * @author 关卓华 Guan Zhuohua
+ * @author GuanZH
  * @since 2023-5-17 10:53
  */
 public class CollectionItemChangeEditorImpl implements OpLogParamEditor {

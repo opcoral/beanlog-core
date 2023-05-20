@@ -8,7 +8,7 @@ import lombok.Data;
  * 玩家信息<br>
  * <br>
  *
- * @author 关卓华 Guan Zhuohua
+ * @author GuanZH
  * @since 2023-5-18 14:44
  */
 @Data

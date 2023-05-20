@@ -8,7 +8,7 @@ import io.github.opcoral.oplog.entity.parse.OpLogParseField;
  * 解决的粒度：beforeObj -> before(无前后缀), afterObj -> after(无前后缀)<br>
  * 对于OpLog内部的调用，可以保证入参不为null
  *
- * @author 关卓华 Guan Zhuohua
+ * @author GuanZH
  * @since 2023-5-15 14:14
  */
 public interface OpLogStringConverter {

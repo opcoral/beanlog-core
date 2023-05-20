@@ -10,7 +10,7 @@ import java.util.Map;
  * OpLog的转换工具<br>
  * <br>
  *
- * @author 关卓华 Guan Zhuohua
+ * @author GuanZH
  * @since 2023-5-17 11:13
  */
 public class OpLogConvertUtil {

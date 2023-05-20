@@ -12,7 +12,7 @@ import java.util.stream.Collectors;
  * 集合的Converter<br>
  * <br>
  *
- * @author 关卓华 Guan Zhuohua
+ * @author GuanZH
  * @since 2023-5-16 19:36
  */
 public class CollectionConverterImpl implements OpLogStringConverter {

@@ -16,7 +16,7 @@ import java.util.Map;
  * EL表达式解析工具<br>
  * <br>
  *
- * @author 关卓华 Guan Zhuohua
+ * @author GuanZH
  * @since 2023-5-12 14:09
  */
 public class SpElUtil {

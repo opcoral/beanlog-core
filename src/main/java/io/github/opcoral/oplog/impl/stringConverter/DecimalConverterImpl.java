@@ -9,7 +9,7 @@ import java.text.DecimalFormat;
  * 数字类型的Converter<br>
  * <br>
  *
- * @author 关卓华 Guan Zhuohua
+ * @author GuanZH
  * @since 2023-5-16 19:35
  */
 public class DecimalConverterImpl implements OpLogStringConverter {

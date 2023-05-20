@@ -8,7 +8,7 @@ import java.util.List;
  * Bean层级的操作日志结果<br>
  * <br>
  *
- * @author 关卓华 Guan Zhuohua
+ * @author GuanZH
  * @since 2023-5-15 17:12
  */
 @Data

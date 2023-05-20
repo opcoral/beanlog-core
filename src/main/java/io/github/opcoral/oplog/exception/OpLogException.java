@@ -4,7 +4,7 @@ package io.github.opcoral.oplog.exception;
  * 操作日志的异常<br>
  * <br>
  *
- * @author 关卓华 Guan Zhuohua
+ * @author GuanZH
  * @since 2023-5-12 17:31
  */
 public class OpLogException extends RuntimeException {

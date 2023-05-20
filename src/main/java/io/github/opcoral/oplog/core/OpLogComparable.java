@@ -6,7 +6,7 @@ import io.github.opcoral.oplog.enums.OpLogChangeType;
  * OpLog比较器<br>
  * <br>
  *
- * @author 关卓华 Guan Zhuohua
+ * @author GuanZH
  * @since 2023-5-16 10:49
  */
 @FunctionalInterface

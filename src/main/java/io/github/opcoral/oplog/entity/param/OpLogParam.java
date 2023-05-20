@@ -11,7 +11,7 @@ import java.util.Map;
  * 解析日志过程中的SpEL表达式的各项参数值<br>
  * <br>
  *
- * @author 关卓华 Guan Zhuohua
+ * @author GuanZH
  * @since 2023-5-15 10:26
  */
 @Data

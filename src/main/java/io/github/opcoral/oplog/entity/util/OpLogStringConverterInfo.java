@@ -7,7 +7,7 @@ import lombok.Data;
  * 获取StringConverter的info<br>
  * <br>
  *
- * @author 关卓华 Guan Zhuohua
+ * @author GuanZH
  * @since 2023-5-17 11:20
  */
 @Data

@@ -9,7 +9,7 @@ import java.util.List;
  * OpLog生成后的Field<br>
  * <br>
  *
- * @author 关卓华 Guan Zhuohua
+ * @author GuanZH
  * @since 2023-5-15 11:43
  */
 @Data
