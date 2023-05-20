@@ -3,7 +3,7 @@
 本工具适用于java，能够基于注解根据Bean的属性值的变化一键生成字段变化日志，以便于生成操作日志并管理
 
 适用版本：0.1.0
-> 文档编辑中
+> 文档会在后续版本补充完毕
 
 ## 痛点
 
@@ -235,4 +235,4 @@ public void logStructTest() {
 |`BeanLogConfig`<br>包含属性|`@BeanLogBean`<br>是否支持|`@BeanLogField`<br>是否支持|`@BeanLogBeanInside`<br>是否支持|
 |:---:|:---:|:---:|:---:|
 
-> 文档编辑中
+> 文档会在后续版本补充完毕
