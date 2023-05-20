@@ -51,12 +51,6 @@
     </properties>
 
     <dependencies>
-        <dependency>
-            <groupId>org.apache.maven.plugins</groupId>
-            <artifactId>maven-project-info-reports-plugin</artifactId>
-            <version>3.4.3</version>
-            <type>maven-plugin</type>
-        </dependency>
         <!-- https://mvnrepository.com/artifact/org.junit.jupiter/junit-jupiter-api -->
         <dependency>
             <groupId>org.junit.jupiter</groupId>
@@ -179,14 +173,6 @@
                     </plugin>
                 </plugins>
             </build>
-
-            <reporting>
-                <plugins>
-                    <plugin>
-                        <artifactId>maven-project-info-reports-plugin</artifactId>
-                    </plugin>
-                </plugins>
-            </reporting>
 
             <distributionManagement>
                 <snapshotRepository>
