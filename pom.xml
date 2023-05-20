@@ -93,8 +93,9 @@
                 <activeByDefault>true</activeByDefault>
             </activation>
             <build>
-                <!--发布到中央SNAPSHOT仓库插件-->
+
                 <plugins>
+                    <!-- snapshot -->
                     <plugin>
                         <groupId>org.sonatype.plugins</groupId>
                         <artifactId>nexus-staging-maven-plugin</artifactId>
@@ -106,6 +107,19 @@
                             <autoReleaseAfterClose>true</autoReleaseAfterClose>
                         </configuration>
                     </plugin>
+
+                    <!-- release -->
+<!--                    <plugin>-->
+<!--                        <groupId>org.apache.maven.plugins</groupId>-->
+<!--                        <artifactId>maven-release-plugin</artifactId>-->
+<!--                        <version>2.5.3</version>-->
+<!--                        <configuration>-->
+<!--                            <autoVersionSubmodules>true</autoVersionSubmodules>-->
+<!--                            <useReleaseProfile>false</useReleaseProfile>-->
+<!--                            <releaseProfiles>release</releaseProfiles>-->
+<!--                            <goals>deploy</goals>-->
+<!--                        </configuration>-->
+<!--                    </plugin>-->
 
                     <!--生成源码插件-->
                     <plugin>
